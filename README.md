@@ -1,6 +1,6 @@
 # Hola, soy Martín Montaña 👋
 
-💻 Analista de Sistemas | .NET Backend Developer  
+💻 Analista de Sistemas | Técnico Universitario en Tecnologías de Programación | .NET Backend Developer  
 📍 Punta Alta, Buenos Aires, Argentina
 
 Trabajo desarrollando software backend con **C#**, **.NET** y **bases de datos SQL**, con experiencia en mantenimiento de sistemas empresariales, optimización de aplicaciones y modernización de sistemas legacy.
