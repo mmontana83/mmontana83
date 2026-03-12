@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hola, soy Martín Montaña 👋
 
-<!--
-**mmontana83/mmontana83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Sistemas | .NET Backend Developer  
+📍 Punta Alta, Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+Trabajo desarrollando software backend con **C#**, **.NET** y **bases de datos SQL**, con experiencia en mantenimiento de sistemas empresariales, optimización de aplicaciones y modernización de sistemas legacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+
+**Backend**
+- C#
+- .NET
+- ASP.NET Core
+- Web API
+
+**Bases de datos**
+- SQL Server
+- MySQL
+- Oracle
+- Stored Procedures
+
+**Acceso a datos**
+- ADO.NET
+- Entity Framework Core
+
+**Arquitectura**
+- REST APIs
+- Clean Architecture
+- OOP
+- SOLID
+
+**Herramientas**
+- Git
+- Docker
+- Azure
+
+---
+
+## 💼 Experiencia
+
+- Desarrollo de aplicaciones empresariales
+- Mantenimiento y optimización de sistemas
+- Integración con bases de datos SQL
+- Migración de sistemas legacy a tecnologías .NET
+
+---
+
+## 📚 Actualmente
+
+- Docente de programación .NET
+- Desarrollando proyectos backend
+- Mejorando arquitectura y buenas prácticas
+
+---
+
+## 📫 Contacto
+
+📧 martin.miguel.montana@gmail.com
