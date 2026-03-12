@@ -1,60 +1,71 @@
-# Hola, soy Martín Montaña 👋
+# Martín Montaña 👋
 
-💻 Analista de Sistemas | Técnico Universitario en Tecnologías de Programación | .NET Backend Developer  
-📍 Punta Alta, Buenos Aires, Argentina
+💻 **Analista de Sistemas | .NET Backend Developer**  
+📍 Punta Alta, Buenos Aires, Argentina  
 
-Trabajo desarrollando software backend con **C#**, **.NET** y **bases de datos SQL**, con experiencia en mantenimiento de sistemas empresariales, optimización de aplicaciones y modernización de sistemas legacy.
+Soy desarrollador backend con experiencia en desarrollo de software, mantenimiento evolutivo y correctivo de sistemas empresariales, integración con bases de datos SQL y modernización de sistemas legacy.
 
----
-
-## 🚀 Tecnologías
-
-**Backend**
-- C#
-- .NET
-- ASP.NET Core
-- Web API
-
-**Bases de datos**
-- SQL Server
-- MySQL
-- Oracle
-- Stored Procedures
-
-**Acceso a datos**
-- ADO.NET
-- Entity Framework Core
-
-**Arquitectura**
-- REST APIs
-- Clean Architecture
-- OOP
-- SOLID
-
-**Herramientas**
-- Git
-- Docker
-- Azure
+Trabajo principalmente con **C#**, **.NET**, **SQL Server** y desarrollo de **APIs REST**.
 
 ---
 
-## 💼 Experiencia
+# 🚀 Tech Stack
 
-- Desarrollo de aplicaciones empresariales
-- Mantenimiento y optimización de sistemas
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Data Access
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+# 💼 Experiencia
+
+✔ Desarrollo de aplicaciones empresariales  
+✔ Integración con bases de datos SQL  
+✔ Optimización de consultas y stored procedures  
+✔ Corrección de errores y mantenimiento evolutivo  
+✔ Modernización de sistemas legacy  
+✔ Desarrollo de APIs REST  
+
+Además me desempeño como **docente universitario en programación .NET y bases de datos**.
+
+---
+
+# 📊 GitHub Stats
+
+![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact)
+
+---
+
+# 📌 Proyectos destacados
+
+Voy a estar publicando y organizando proyectos relacionados a:
+
+- APIs REST con ASP.NET Core
+- Sistemas backend con C#
 - Integración con bases de datos SQL
-- Migración de sistemas legacy a tecnologías .NET
+- Modernización de sistemas legacy
+- Arquitectura limpia en .NET
 
 ---
 
-## 📚 Actualmente
+# 📫 Contacto
 
-- Docente de programación .NET
-- Desarrollando proyectos backend
-- Mejorando arquitectura y buenas prácticas
-
----
-
-## 📫 Contacto
-
-📧 martin.miguel.montana@gmail.com
+📧 martin.miguel.montana@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/martinmiguelmontana/
